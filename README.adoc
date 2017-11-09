@@ -1,0 +1,47 @@
+= DigiKey Cool Shtuff
+Dmitry Murzinov <kakstattakim@gmail.com>
+v1.0, 9.11.2017
+:doctype: article
+:lang: en
+:stem:
+:grid: all
+:align: center
+:imagesdir: example
+:homepage: http://idoka.ru
+
+This is simple parser/watcher/notifier of DigiKey stock status for P/N-list
+
+NOTE: Russian description available here: http://idoka.ru/digikey-in-stock-notifier/
+
+
+== Intro
+
+_under construction_
+
+
+== Dependencies
+
+* bash tool: make, cron
+* PHP CLI >= 5
+* PHP: curl, mbstring
+
+
+== ToDo
+
+[options="readonly"]
+* [ ] Telegram notify
+* [ ] Collect some statistics (Qty/Price trands)
+
+
+== Useful link that helps me develop that tool
+
+* http://simplehtmldom.sourceforge.net/[PHP Simple HTML DOM Parser]
+* https://davidwalsh.name/php-notifications[Parse Web Pages with PHP Simple HTML DOM Parser]
+
+
+== Tags
+
+#digikey, #partnumber, #php, #parser, #notifier
+
+
+
