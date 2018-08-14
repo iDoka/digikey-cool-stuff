@@ -1,4 +1,4 @@
-= DigiKey Cool Shtuff
+= DigiKey Cool Stuff
 Dmitry Murzinov <kakstattakim@gmail.com>
 v1.0, 9.11.2017
 :doctype: article
