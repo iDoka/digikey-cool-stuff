@@ -8,11 +8,19 @@ v1.0, 9.11.2017
 :align: center
 :imagesdir: example
 :homepage: http://idoka.ru
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
 
 This is simple parser/watcher/notifier of DigiKey stock status for P/N-list
 
 NOTE: Russian description available here: http://idoka.ru/digikey-in-stock-notifier/
 
+WARNING: *2019-09-16*: You should use PHP version <= 7.0 for works with `simplehtmldom` (waste several hours within php v7.2).
 
 == Intro
 
