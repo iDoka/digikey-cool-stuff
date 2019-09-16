@@ -30,7 +30,7 @@ _under construction_
 == Dependencies
 
 * bash tool: make, cron
-* PHP CLI >= 5
+* PHP CLI >= 5 (and no greater that 7.0)
 * PHP: curl, mbstring
 
 
